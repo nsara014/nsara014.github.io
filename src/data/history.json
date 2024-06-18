@@ -12,7 +12,7 @@
       "Deployed the solution using Docker and AWS, ensuring scalability and reliability."
     ],
     "Tools": "Python, JavaScript (React), OpenAI GPT-4 API, Slack API, Microsoft Teams API, Zapier, Google Analytics, Docker, AWS",
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/cistechnology_logo.jpeg"
   },
   {
     "role": "Website Developer",
@@ -28,7 +28,7 @@
       "Integrated Power BI to visualize and showcase student data insights directly on the website."
     ],
     "Tools": "HTML, CSS, Javascript, PHP, MySQL, Power BI, Google Analytics, Github, Jira, Drupal, MS Teams",
-    "imageSrc": "history/microsoft.png"
+    "imageSrc": "history/university_of_california_riverside_logo.jpeg"
   },
   {
     "role": "Software Engineer",
@@ -43,7 +43,7 @@
       "Designed a real-time data processing system capable of handling and analyzing 100GB of trading data efficiently."
     ],
     "Tools": "C#, R, SQL,.NET, ASP.NET Core, AWS, RESTful services, Tableau, SSMS, Git, Slack",
-    "imageSrc": "history/netflix.png"
+    "imageSrc": ""
   },
   {
     "role": "Data Analyst and ML engineer",
@@ -60,7 +60,7 @@
       "Defined the ETL mapping speci cation and Design the ETL process to source the data from sources and load it into DWH tables."
     ],
     "Tools": "Python, R, SQL, pandas, openrefine, mySQL, Tableau, matplotlib, seaborn, Apache Spark, Hadoop, AWS, Git  ",
-    "imageSrc": "history/netflix.png"
+    "imageSrc": ""
   },
   {
     "role": "Software Engineer Intern",
@@ -75,7 +75,7 @@
       "Collaborated closely with agricultural experts and stakeholders to gather feedback, refine requirements, and iterate on the SmartCrop solution to meet the evolving needs of the farming community."
     ],
     "Tools": "Python, R, SQL, pandas, openrefine, mySQL, Tableau, matplotlib, seaborn, Apache Spark, Hadoop, AWS, Git  ",
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/iiitnr.jpeg"
   },
   {
     "role": "Research Intern",
@@ -84,6 +84,6 @@
     "endDate": "Mar, 2021",
     "experiences": [],
     "Tools": "",
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/iitbbsr.jpeg"
   }
 ]
