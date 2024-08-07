@@ -5,13 +5,8 @@
     "startDate": "Dec, 2023",
     "endDate": "Apr, 2024",
     "experiences": [
-      "Developed an AI-powered chatbot using OpenAI's GPT-4 API to assist new hires with the onboarding process.",
-      "Automated onboarding tasks such as document submission, training schedules, and IT setup, improving efficiency by 40%.",
-      "Designed an intuitive user interface for the chatbot to enhance user experience.",
-      "Integrated the chatbot with existing HR systems and communication platforms like Slack and Microsoft Teams.",
-      "Deployed the solution using Docker and AWS, ensuring scalability and reliability."
     ],
-    "Tools": "Python, JavaScript (React), OpenAI GPT-4 API, Slack API, Microsoft Teams API, Zapier, Google Analytics, Docker, AWS",
+    "Tools":
     "imageSrc": "history/cistechnology_logo.jpeg"
   },
   {
@@ -20,14 +15,8 @@
     "startDate": "Sep, 2022",
     "endDate": "Dec, 2023",
     "experiences": [
-      "Used HTML, CSS, Javascript to create eye-catching and informative graphics and logo designs for web pages.",
-      "Developed custom web design solutions based on Career Centers needs while maintaining usability and functionality requirements for website users",
-      "Redesigned and launched the new Career Center website to provide better experiences for users within 3 months",
-      "Utilized SEO optimization techniques to drive web traffic, leading to a 10% increase in DCI scores ",
-      "Managed and maintained a comprehensive database of student data, ensuring data integrity and security.",
-      "Integrated Power BI to visualize and showcase student data insights directly on the website."
     ],
-    "Tools": "HTML, CSS, Javascript, PHP, MySQL, Power BI, Google Analytics, Github, Jira, Drupal, MS Teams",
+    "Tools": "",
     "imageSrc": "history/university_of_california_riverside_logo.jpeg"
   },
   {
@@ -36,13 +25,8 @@
     "startDate": "Jul, 2021",
     "endDate": "Jul, 2022",
     "experiences": [
-      "Worked closely with a team of five developers and business analysts to gather requirements, design, develop, and deploy the new system.",
-      "Developed a complex visualized dashboard using Tableau to analyze end-user satisfaction and system accessibility metrics.",
-      "Successfully developed and deployed a cloud-based portfolio management system, enhancing functionalities and user experience.",
-      "Improved customer experience in the wealth management line of business by 20% through effective data integration and design thinking.",
-      "Designed a real-time data processing system capable of handling and analyzing 100GB of trading data efficiently."
     ],
-    "Tools": "C#, R, SQL,.NET, ASP.NET Core, AWS, RESTful services, Tableau, SSMS, Git, Slack",
+    "Tools": "",
     "imageSrc": ""
   },
   {
@@ -51,15 +35,8 @@
     "startDate": "May, 2021",
     "endDate": "Jul, 2021",
     "experiences": [
-      "Merged Data from multiple laboratories to use mySQL and OpenRefine for data cleaning ",
-      "Utilized Apache Spark and Hadoop for the processing and the analysis of large datasets on AWS.",
-      "The exhaustive test cases and MySQL test scripts were created that guarantee data quality and model accuracy.",
-      "Feature selection with pandas, seaborn, and matplotlib on the air quality metrics and respiratory disease prevalence. ",
-      "Developed visualizations in Tableau to effectively communicate predictive analysis results.",
-      "Architected and implemented the ML model on AWS Managed Services, using lambda and SageMaker for model development, and EC2 and S3 for deployment and storage.",
-      "Defined the ETL mapping speci cation and Design the ETL process to source the data from sources and load it into DWH tables."
     ],
-    "Tools": "Python, R, SQL, pandas, openrefine, mySQL, Tableau, matplotlib, seaborn, Apache Spark, Hadoop, AWS, Git  ",
+    "Tools": "",
     "imageSrc": ""
   },
   {
@@ -68,13 +45,8 @@
     "startDate": "Jan, 2021",
     "endDate": "Jun, 2021",
     "experiences": [
-      "Developed ML Enterprise software using Python. Implemented machine learning algorithms and optimized data structures resulting in improved performance and efficiency. ",
-      "Developed scalable and resilient microservices architecture, utilizing technologies Flask, Django.",
-      "Designed and trained a convolutional neural network (CNN) model using Python and TensorFlow, leveraging transfer learning from pre-trained models such as ResNet and MobileNet for efficient feature extraction.",
-      "Incorporated advanced image segmentation algorithms to isolate regions of interest within uploaded images, enabling precise analysis of crop health indicators such as leaf coloration and texture using OpenCV.",
-      "Collaborated closely with agricultural experts and stakeholders to gather feedback, refine requirements, and iterate on the SmartCrop solution to meet the evolving needs of the farming community."
     ],
-    "Tools": "Python, R, SQL, pandas, openrefine, mySQL, Tableau, matplotlib, seaborn, Apache Spark, Hadoop, AWS, Git  ",
+    "Tools": "",
     "imageSrc": "history/iiitnr.jpeg"
   },
   {
