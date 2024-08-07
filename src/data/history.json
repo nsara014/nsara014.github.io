@@ -4,9 +4,8 @@
     "organisation": "CIS Technologies",
     "startDate": "Dec, 2023",
     "endDate": "Apr, 2024",
-    "experiences": [
-    ],
-    "Tools":"Java",
+    "experiences": [],
+    "Tools": "",
     "imageSrc": "history/cistechnology_logo.jpeg"
   },
   {
@@ -14,9 +13,8 @@
     "organisation": "University of California Riverside",
     "startDate": "Sep, 2022",
     "endDate": "Dec, 2023",
-    "experiences": [
-    ],
-    "Tools": " Java",
+    "experiences": [],
+    "Tools": "",
     "imageSrc": "history/university_of_california_riverside_logo.jpeg"
   },
   {
@@ -24,8 +22,7 @@
     "organisation": "Sriaasri Solutions",
     "startDate": "Jul, 2021",
     "endDate": "Jul, 2022",
-    "experiences": [
-    ],
+    "experiences": [],
     "Tools": "",
     "imageSrc": ""
   },
@@ -34,8 +31,7 @@
     "organisation": "BAID Auto technologies pvt ltd ",
     "startDate": "May, 2021",
     "endDate": "Jul, 2021",
-    "experiences": [
-    ],
+    "experiences": [],
     "Tools": "",
     "imageSrc": ""
   },
@@ -44,8 +40,7 @@
     "organisation": "IIIT-Naya Raipur",
     "startDate": "Jan, 2021",
     "endDate": "Jun, 2021",
-    "experiences": [
-    ],
+    "experiences": [],
     "Tools": "",
     "imageSrc": "history/iiitnr.jpeg"
   },
